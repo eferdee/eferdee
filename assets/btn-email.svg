@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="164" height="44" viewBox="0 0 164 44" role="img" aria-label="Say Hello">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#c5221f"/><stop offset="1" stop-color="#EA4335"/></linearGradient></defs>
+<style>.b{transition:opacity .2s}</style>
+<rect width="164" height="44" rx="22" fill="url(#g)"/><rect x=".5" y=".5" width="163" height="43" rx="21.5" fill="none" stroke="#fff" stroke-opacity=".25"/>
+<svg x="20" y="11" width="22" height="22" viewBox="0 0 24 24"><path fill="#fff" d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z"/></svg><text x="54" y="28" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#fff" letter-spacing=".3">Say Hello</text></svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="164" height="44" viewBox="0 0 164 44" role="img" aria-label="Portfolio">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f766e"/><stop offset="1" stop-color="#14b8a6"/></linearGradient></defs>
+<style>.b{transition:opacity .2s}</style>
+<rect width="164" height="44" rx="22" fill="url(#g)"/><rect x=".5" y=".5" width="163" height="43" rx="21.5" fill="none" stroke="#fff" stroke-opacity=".25"/>
+<svg x="20" y="11" width="22" height="22" viewBox="0 0 24 24"><path fill="#fff" d="m12 1.608 12 20.784H0Z"/></svg><text x="54" y="28" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#fff" letter-spacing=".3">Portfolio</text></svg>
