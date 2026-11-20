@@ -18,31 +18,31 @@ I enjoy turning ideas, research, and data into practical digital solutions. My w
 
 | | |
 | :-- | :-- |
-| 🔭 **Currently** | Web Development & Operations at Benang Merah Living Journal |
-| 🎓 **Education** | Informatics, Universitas Sriwijaya (2022 – 2026) |
-| 📍 **Based in** | Palembang, Indonesia |
-| 🟢 **Status** | Available for opportunities |
+| **Currently** | Web Development & Operations at Benang Merah Living Journal |
+| **Education** | Informatics, Universitas Sriwijaya (2022 – 2026) |
+| **Status** | Available for opportunities |
 
 ## 🛠️ Tools I Use
 
 | | |
 | :-- | :-- |
-| **Web** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel" width="36" height="36"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" title="PHP" width="36" height="36"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="36" height="36"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="36" height="36"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="36" height="36"> |
-| **AI, ML & Data** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="36" height="36"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" width="36" height="36"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" width="36" height="36"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas" width="36" height="36"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" width="36" height="36"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" title="Streamlit" width="36" height="36"> |
-| **Workflow** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="36" height="36"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="36" height="36"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="36" height="36"> |
+| **Web** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel" width="36" height="36"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" title="PHP" width="36" height="36"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="36" height="36"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="36" height="36"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="36" height="36"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="36" height="36"> |
+| **AI, ML & Data** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" width="36" height="36"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" title="Flask" width="36" height="36"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="36" height="36"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" width="36" height="36"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" title="Streamlit" width="36" height="36"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas" width="36" height="36"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" width="36" height="36"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" title="Matplotlib" width="36" height="36"> |
+| **Database** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="36" height="36"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="Firebase" title="Firebase" width="36" height="36"> |
+| **Workflow** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="36" height="36"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="36" height="36"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="36" height="36"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" title="Canva" width="36" height="36"> |
 
 ## 🧭 My Journey
 
-**🎓 2022 – 2026 · Universitas Sriwijaya**
+**2022 – 2026 · Universitas Sriwijaya**
 It started here. I studied Informatics and built web applications, AI models, and database systems through academic and personal projects.
 
-**⚡ Jul – Aug 2024 · PT PLN (Persero) UP3 Palembang**
+**Jul – Aug 2024 · PT PLN (Persero) UP3 Palembang**
 My first taste of real-world work as an intern, where I built a data management system with Google Apps Script and Google Sheets.
 
-**🤖 Sep – Dec 2024 · Bangkit Academy**
+**Sep – Dec 2024 · Bangkit Academy**
 Completed the Bangkit Academy 2024 program under the Kampus Merdeka MSIB initiative, specializing in the Machine Learning Path. I gained hands-on experience in artificial intelligence, machine learning, deep learning, and professional development while collaborating on team-based project.
 
-**📸 Jul 2026 – Present · Benang Merah Living Journal**
+**Jul 2026 – Present · Benang Merah Living Journal**
 Now working as a freelance Project Team Member, helping develop and run their web-based virtual photobooth service.
 
 ---
